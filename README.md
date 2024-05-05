@@ -5,9 +5,9 @@
 - Por política da empresa, um novo container deve ser colocado no local com a pilha mais baixa disponível (se mais de um local tiver a mesma quantidade de containers, tanto faz em que pilha será adicionado).
 - Cada container é adicionado a partir de um código informado e o sistema não pode permitir códigos repetidos. Para remoção é preciso informar o código do container, mas o mesmo somente será removido se estiver no topo da pilha.
 
-- O programa deve mostrar a seguinte mensagem: 
-**Código inválido!:** quando for fornecido um valor já existe no momento de inserção e quando for fornecido um valor que não existente no momento de remoção. 
-**Impossível empilhar:** quando não for mais possível adicionar containers nas pilhas.
+- O programa deve mostrar a seguinte mensagem:  
+**Código inválido!:** quando for fornecido um valor já existe no momento de inserção e quando for fornecido um valor que não existente no momento de remoção.  
+**Impossível empilhar:** quando não for mais possível adicionar containers nas pilhas.  
 **Impossível desempilhar!:** quando não for possível remover um container, ou por não existir mais containers ou por ele não estar no topo da pilha.
 
 **Proposta Prática:**
